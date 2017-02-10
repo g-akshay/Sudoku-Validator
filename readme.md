@@ -6,8 +6,8 @@ Sudoku is a number-based logic puzzle. It typically comprises of a 9*9 grid with
 ## Input
 It takes string as the the firt parameter which contains value of N, a semicolon and the sqaure matrix of integers in row major form, comma delimited. E.g.
 
-4;1,4,2,3,2,3,1,4,4,2,3,1,3,1,4,2
-4;2,1,3,2,3,2,1,4,1,4,2,3,2,3,4,1
+* 4;1,4,2,3,2,3,1,4,4,2,3,1,3,1,4,2
+* 4;2,1,3,2,3,2,1,4,1,4,2,3,2,3,4,1
 
 ## Output
 Logs out True/False if the grid is a valid sudoku layout
